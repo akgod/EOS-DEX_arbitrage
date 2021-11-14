@@ -1,4 +1,3 @@
-// #include "mine.hpp"
 #include <string>
 #include <eosio/eosio.hpp>
 #include <eosio/print.hpp>
